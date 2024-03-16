@@ -1,4 +1,4 @@
-package com.api.starwarsplanets.models;
+package com.api.starwarsplanets.entity.models;
 
 import jakarta.persistence.*;
 
